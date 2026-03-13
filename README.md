@@ -75,6 +75,6 @@ PwnSat is intended for educational and ethical research purposes only. Always co
 
 ## Credits & License
 
-**Developed by:** Kevin Leon
+**Developed by:** PWNSAT Team & Electronic Cats
 **Research Duration:** 2019 - 2026
 **License:** GNU General Public License v3.0
